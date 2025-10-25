@@ -44,9 +44,6 @@ eXipini - connecting rural weavers with customers for authentic gamusa textiles.
 - Safari 12+
 - Edge 79+
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
